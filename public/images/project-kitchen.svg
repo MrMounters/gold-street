@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#f8f6f2"/>
+  <rect x="0" y="0" width="1200" height="900" fill="#fafafa"/>
+  <rect x="0" y="550" width="1200" height="350" fill="#e8e4dc"/>
+  <rect x="100" y="200" width="1000" height="300" fill="#fff"/>
+  <rect x="100" y="200" width="1000" height="20" fill="#d0cac0"/>
+  <rect x="500" y="220" width="200" height="260" fill="#e0dbd0"/>
+  <rect x="100" y="480" width="1000" height="70" fill="#c8c0b0"/>
+  <!-- hex tile pattern suggestion -->
+  <rect x="100" y="100" width="1000" height="100" fill="#f0ece4"/>
+</svg>

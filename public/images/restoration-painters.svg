@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 990">
+  <defs>
+    <linearGradient id="house-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8d8e8"/>
+      <stop offset="100%" stop-color="#a0b8c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="990" fill="url(#house-bg)"/>
+  <rect x="50" y="200" width="800" height="790" fill="#f5f0e5"/>
+  <rect x="50" y="100" width="800" height="130" fill="#e8dfd0"/>
+  <rect x="150" y="300" width="200" height="300" fill="#d0c8b5"/>
+  <rect x="550" y="300" width="200" height="300" fill="#d0c8b5"/>
+  <rect x="350" y="500" width="200" height="490" fill="#e0d8c5"/>
+  <!-- ladder suggestion -->
+  <line x1="700" y1="100" x2="680" y2="600" stroke="#6a5a40" stroke-width="6"/>
+  <line x1="780" y1="100" x2="760" y2="600" stroke="#6a5a40" stroke-width="6"/>
+  <line x1="685" y1="200" x2="765" y2="200" stroke="#6a5a40" stroke-width="4"/>
+  <line x1="681" y1="300" x2="761" y2="300" stroke="#6a5a40" stroke-width="4"/>
+  <line x1="677" y1="400" x2="757" y2="400" stroke="#6a5a40" stroke-width="4"/>
+  <line x1="673" y1="500" x2="753" y2="500" stroke="#6a5a40" stroke-width="4"/>
+</svg>
